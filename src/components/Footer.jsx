@@ -57,7 +57,7 @@ const Footer = () => {
       <div className="footer-bottom">
         <div className="footer-copy">
           <p>COPYRIGHT &copy; THE HOUZ 2026</p>
-          {/* <p>VENTURE BY MIRAH HOSPITALITY &amp; GOURMET SOLUTIONS PVT LTD</p> */}
+          <p>This is only for Design or Demo purpose</p>
         </div>
 
         <button className="scroll-to-top" onClick={scrollToTop} aria-label="Scroll to top">
